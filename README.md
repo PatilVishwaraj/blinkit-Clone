@@ -54,7 +54,30 @@ A collaborative project built by a team of 6, executed in 5 days.
     ```
 
 ### Website Flow
+1. After Starting the Project using npm start. You will see the landing page something similar to the below image.  
+![image](./images/home_ss.png)
 
+
+
+2. After that in this page you can select depending on categories.
+![image](./images/category_ss.png)
+
+
+
+3. Once you add the products to your cart they will be shown her in the cart.
+![image](./images/cart_ss.png)
+
+
+
+4. After that you can checkout here to complete the order.
+![image](./images/checkout_ss.png)
+
+
+5. Now after filling you right address and payment details your order is booked.
+![image](./images/address_ss.png)
+
+## End Notes 
+We have tried our best to give almost all the functionality available on the actual website.
 
 ## Contributors :
 * [Mithilesh Kumar](https://github.com/mithlesh1203)
